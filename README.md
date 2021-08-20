@@ -1,2 +1,2 @@
 # foodzilla
-basic restaurant website built with html, css and js.
+basic restaurant website template built with html, css and js.
